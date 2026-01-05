@@ -8,4 +8,4 @@
 
 ## 核心架构
 
-![ICD编码工作流程架构图](./images/icd-workflow.pdf)
+![ICD编码工作流程架构图](./images/icd-workflow.png)

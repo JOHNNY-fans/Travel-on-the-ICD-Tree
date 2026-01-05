@@ -1,11 +1,11 @@
 # Travel-on-the-ICD-Tree
 
-## 项目简介
+## Project Overview
 
-国际疾病分类（ICD）编码是医疗数据治理的关键标准，支撑着医院评价、医保结算及临床研究的运行。在实际应用中，编码员需要在复杂的ICD层级树中进行逻辑推理与规则比对。
+International Classification of Diseases (ICD) coding serves as a pivotal standard for medical data governance, underpinning hospital performance assessment, health insurance reimbursement, and clinical research. In practice, clinical coders must engage in logical reasoning and rule verification within the complex ICD hierarchical tree.
 
-本项研究提出了 **Travel on the ICD Tree** 框架，将ICD编码任务视为在ICD层级结构上的结构化探索过程，并引入基于Agent的工作流程，将相似度检索与层级导航相结合，为模型提供ICD编码规则信息。
+This study introduces the Travel on the ICD Tree framework, which conceptualizes the ICD coding task as a structured exploration process within the ICD hierarchy. It incorporates an agent-based workflow that combines similarity-based retrieval with hierarchical navigation to equip the model with ICD coding rule information.
 
-## 核心架构
+## Core Architecture
 
 ![ICD编码工作流程架构图](./images/icd-workflow.png)
